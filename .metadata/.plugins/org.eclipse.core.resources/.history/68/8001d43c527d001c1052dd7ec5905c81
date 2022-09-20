@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>BookStore Project</title>
+</head>
+<body>
+<form action="dis" method="post">
+<table>
+<tr>
+<td>Book Code<input type="text" name="bCode"></td>
+<td>Book Name<input type="text" name="bName"></td>
+<td>Book Author<input type="text" name="author"></td>
+<td>Book Price<input type="text" name="price"></td>
+<td>Book Quantity<input type="text" name="quantity"></td>
+<td><input type="submit" value="display"></td>
+</tr>
+</table>
+</form>
+
+</body>
+</html>

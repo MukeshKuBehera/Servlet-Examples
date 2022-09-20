@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="display" method="post">
+		<table>
+			<tr>
+				<td>UserName<input type="text" name="name"></td>
+			</tr>
+			<tr>
+				<td>Password<input type="text" name="password"></td>
+			</tr>
+			<tr>
+				<td>MailID<input type="text" name="mail"></td>
+			</tr>
+			<tr>
+				<td>PhoneNO<input type="text" name="mob"></td>
+			</tr>
+			
+			<tr>
+				<td><input type="submit" value="display"></td>
+			</tr>
+		</table>
+	</form>
+
+
+</body>
+</html>

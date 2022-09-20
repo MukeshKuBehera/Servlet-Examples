@@ -1,0 +1,11 @@
+<web-app>
+
+<servlet>
+<servlet-name>date</servlet-name>
+<servlet-class>test.DateServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>date</servlet-name>
+<servlet-url>/date</servlet-url></servlet-mapping>
+</web-app>

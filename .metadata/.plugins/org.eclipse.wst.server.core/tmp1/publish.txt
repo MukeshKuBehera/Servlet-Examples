@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Jan 29 20:45:51 IST 2022
+org.eclipse.jst.jee.server\:Project_on_Date&Time=E\:\\Tomcat\\apache-tomcat-10.0.13\\wtpwebapps\\Project_on_Date&Time
+org.eclipse.jst.jee.server\:CoronaVaccineApp=E\:\\Tomcat\\apache-tomcat-10.0.13\\wtpwebapps\\CoronaVaccineApp
